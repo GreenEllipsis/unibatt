@@ -1,3 +1,9 @@
 [submodule "components/SparkFun_SerLCD_ESP-IDF_Library"]
 	path = components/SparkFun_SerLCD_ESP-IDF_Library
 	url = https://github.com/sparkfun/SparkFun_SerLCD_ESP-IDF_Library.git
+[submodule "components/LiquidMenu"]
+	path = components/LiquidMenu
+	url = https://github.com/VaSe7u/LiquidMenu.git
+[submodule "components/arduino"]
+	path = components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
