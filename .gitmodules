@@ -7,3 +7,6 @@
 [submodule "components/arduino"]
 	path = components/arduino
 	url = https://github.com/espressif/arduino-esp32.git
+[submodule "components/sx1509"]
+	path = components/sx1509
+	url = https://github.com/Kentucky-Fried-Circuits/sx1509.git
