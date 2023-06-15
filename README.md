@@ -13,3 +13,6 @@ Universal Battery Manager
 - Designed around ESP-IDF v4.5.5(?)
 - Local UI based on 1602 LCD
 - MQTT interface
+
+## Known Issues
+TODO install liquidMenu (requires Arduino?)
